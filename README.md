@@ -1,4 +1,4 @@
-================FIRST===HOMEWORK=======================================
+================FIRST===HOMEWORK======================
 1)SELECT * FROM Customers WHERE City="London";
 2)SELECT CustomerName,ContactName FROM Customers WHERE Address LIKE "%23";
 3)SELECT DISTINCT City FROM Customers;
@@ -6,7 +6,7 @@
 5)SELECT * FROM Customers WHERE country NOT IN ('USA');
 6)SELECT * FROM Customers WHERE country IN ('France') ORDER BY ContactName DESC;
 7)SELECT * FROM Customers WHERE country IN ('Germany', 'USA') LIMIT 10;
-=======================================================================
+=====================================================
 
 ================SECOND===HOMEWORK=====================================================
 1)SELECT * FROM Products WHERE ProductName LIKE 'M%';
