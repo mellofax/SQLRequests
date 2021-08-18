@@ -15,7 +15,7 @@
 4)SELECT * FROM Products WHERE Unit="500 g";
 5)SELECT * FROM Products WHERE Unit LIKE '%bottles';
 6)SELECT * FROM Products WHERE SupplierID=7 ORDER BY Price DESC;
-======================================================================================
+=============================================
 
 ================THIRD===HOMEWORK======================================================
 SELECT * FROM character WHERE level>45 AND race="dworf";
