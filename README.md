@@ -8,7 +8,7 @@
 7)SELECT * FROM Customers WHERE country IN ('Germany', 'USA') LIMIT 10;
 =============================================
 
-================SECOND===HOMEWORK=====================================================
+================SECOND===HOMEWORK============
 1)SELECT * FROM Products WHERE ProductName LIKE 'M%';
 2)SELECT Unit FROM Products WHERE ProductName="Steeleye Stout";
 3)SELECT ProductName FROM Products WHERE Price>22;
