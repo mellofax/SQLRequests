@@ -17,13 +17,13 @@
 6)SELECT * FROM Products WHERE SupplierID=7 ORDER BY Price DESC;
 =============================================
 
-================THIRD===HOMEWORK======================================================
+================THIRD===HOMEWORK=============
 SELECT * FROM character WHERE level>45 AND race="dworf";
-======================================================================================
+=============================================
 
-================Fourth===HOMEWORK=====================================================
+================Fourth===HOMEWORK============
 1)SELECT FirstName,LastName,Notes FROM Employees WHERE LastName="Leverling";
 2)SELECT * FROM Employees WHERE BirthDate LIKE '196%'; или SELECT * FROM Employees WHERE YEAR(BirthDate)>1960;
 3)SELECT BirthDate FROM Employees WHERE FirstName LIKE 'A%';
 4)SELECT FirstName,LastName,BirthDate FROM Employees ORDER BY BirthDate ASC;
-======================================================================================
+=============================================
